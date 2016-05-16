@@ -1,2 +1,2 @@
 # General
-General folder for 
+General folder for different Data analysis projects.
